@@ -19,6 +19,12 @@ All the files mentioned above are very common in JavaScript projects.
 
 ### To run this project
 
+First clone the repository to your local machine either using the command line git clone command or by cloning it inside Visual Code (or your preffered IDE)
+
+After obtaining your local copy, create a .env file from the .env.sample. Fill it with the real credentials (username/password) and host information
+
+Now it's time to install the dependencies. The dependencies are listed inside the package.json file. The following command will read the package.json file and install all the dependencies.
+
 ```bash
 npm install
 ```
