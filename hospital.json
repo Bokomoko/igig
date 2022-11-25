@@ -1,0 +1,14 @@
+{
+  "razao-social": "coloque aqui a razáo social do hospital",
+  "fantasia": "coloque aqui a fantasia do hospital",
+  "CNPJ": "cnpj do hospital",
+  "endereco": "endereço do hospital",
+  "numero": "número do logradouro",
+  "complemento": "complemento do endereço",
+  "bairro": "Bairro",
+  "cidade": "cidade",
+  "CEP": "dígitos que compóe o cep",
+  "email": "email do tipo xxx@isso.com.",
+  "telefone-fixo": "dígitos do telefone fixo depoios udar ",
+  "celular": "dígitos do celular"
+}
